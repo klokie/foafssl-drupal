@@ -1,10 +1,9 @@
 # first implementation of foaf+ssl for Drupal
 
 > Story Henry henry.story at bblfish.net 
+> 
 > Wed Sep 30 14:08:49 CEST 2009
-> Previous message: [foaf-protocols] [foaf-dev] # # in urls
-> Next message: [foaf-protocols] first implementation of foaf+ssl for Drupal
-> Messages sorted by: [ date ] [ thread ] [ subject ] [ author ]
+> 
 > Damien Tournoud from http://af83.com in Paris implemented foaf+ssl for  
 > Drupal this weekend in under 24 hours.
 > 
